@@ -1,0 +1,16 @@
+{
+  "name": "tradingbot",
+  "version": "1.0.0",
+  "description": "A trading assistant made with Node + Typescript + <3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés García",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mysql": "^2.15.2",
+    "bitfinex-api-node": "^2.0.0-beta",
+    "mysql": "^2.15.0"
+  }
+}
